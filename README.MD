@@ -1,1 +1,1 @@
-This script automates the archival of logs by every week. It takes the log from the log path and create an archive folder if it does not exist.
+This script automates the archival of logs weekly. It takes the log from the log path and create an archive folder if it does not exist.
